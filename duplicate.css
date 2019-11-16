@@ -1,0 +1,35 @@
+header {
+    text-align: center;
+    background-color: red;
+    color: white;
+    padding: 3px 0;
+}
+.container {
+    text-align: center;
+}
+
+#number {
+    width: 200px;
+    border: 1px solid red;
+    padding: 5px;
+}
+
+#btn {
+    width: 200px;
+    border: 1px solid #9E9E9E;
+    padding: 5px;
+}
+
+#duplicates_label, #non-duplicates_label {
+    display: none;
+}
+
+#duplicates_label {
+    color:red;
+}
+
+#non-duplicates_label {
+    color:green;
+}
+
+
